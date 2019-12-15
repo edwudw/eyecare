@@ -4,6 +4,10 @@ EyeCare is an app for macOS which reminds you every 20 minutes to look at an obj
 It allows you to customise the interval at which it reminds you. Set it to launch when you boot your Mac automatically, and you
 can completely forget about touching it at all.
 
+Written natively for macOS in Swift.
+
+(I would love to write a Windows version too, please let me know in an issue if you would like this!)
+
 ## Digital Eye Strain
 
 https://medium.com/swlh/use-this-20-20-20-rule-to-prevent-eye-strain-when-you-stare-at-screens-all-day-235c8b18c879
