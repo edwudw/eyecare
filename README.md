@@ -6,6 +6,8 @@ can completely forget about touching it at all.
 
 Written natively for macOS in Swift.
 
+[Download here!](https://github.com/edwudw/eyecare/raw/master/TestProject%202019-12-16%2021-25-44/EyeCare.dmg)
+
 (I would love to write a Windows version too, please let me know in an issue if you would like this!)
 
 ## Digital Eye Strain
