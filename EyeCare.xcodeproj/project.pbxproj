@@ -458,6 +458,7 @@
 					"@executable_path/../Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.edwardwebb.eyecare;
+				PRODUCT_BUNDLE_IDENTIFIER = com.outki.eyecare;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -479,6 +480,7 @@
 					"@executable_path/../Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.edwardwebb.eyecare;
+				PRODUCT_BUNDLE_IDENTIFIER = com.outki.eyecare;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};

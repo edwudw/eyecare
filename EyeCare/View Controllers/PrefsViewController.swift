@@ -41,7 +41,6 @@ class PrefsViewController: NSViewController {
     func showSliderValueAsText() {
       let newTimerDuration = customSlider.integerValue
       let minutesDescription = (newTimerDuration == 1) ? "minute" : "minutes"
-      
       customTextField.stringValue = "\(newTimerDuration) \(minutesDescription)"
     }
     

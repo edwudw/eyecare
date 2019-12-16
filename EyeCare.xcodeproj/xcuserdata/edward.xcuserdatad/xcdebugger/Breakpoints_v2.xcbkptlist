@@ -24,7 +24,11 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "F0273524-E009-49B9-96C8-38F52657BF6D"
+<<<<<<< HEAD
             shouldBeEnabled = "No"
+=======
+            shouldBeEnabled = "Yes"
+>>>>>>> 8d5f9af333d3f306660350b30d66f766dbd42782
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "EyeCare/View Controllers/PrefsViewController.swift"
